@@ -1,7 +1,7 @@
 body{
     
     background-image: linear-gradient(to right,   #000000,#727168, #000000);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:  arial;
 }
 
 h1{
@@ -9,14 +9,7 @@ color: beige;
 text-align: center;
 }
 
-h2{
-margin-left: 10px;;
-text-align: center;
-color: #21690f;
-text-align: center;
-
-}
-
+h2
 h3{
 color: beige;
 text-align: center;
@@ -37,16 +30,7 @@ header{
     border-radius: 10px;
 }
 
-.link{
-    border-width: 8px; 
-    font-size: 12px;
-    font-variant-position: center;
-    height: 60px; 
-    text-align: center;
-    
+li{
+    margin-bottom: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
-
-
-
-
