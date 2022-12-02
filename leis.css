@@ -1,6 +1,9 @@
 body{
     background-image: linear-gradient(to right,   #000000,#727168, #000000);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0vh;
+    height: 0vh;
+    
 }
 
 h1{
@@ -87,9 +90,13 @@ color: #283624;
     font-size: 20px;
     margin-left: 15px;
   }
+
+
 .link{
-  margin-left: 70px;
+  margin-left: 80px;
   margin-top: 5px;
   font-size: 20px;
   color: rgb(0, 208, 255);
+  width:100vh;
+  height: 100px;
 }
